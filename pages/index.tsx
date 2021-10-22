@@ -1,4 +1,4 @@
-/* eslint-disable global-require */
+d/* eslint-disable global-require */
 import {
 	Avatar,
 	Badge,
@@ -36,7 +36,7 @@ const Home = ({ profiles }: { profiles: Profile[] }) => (
 			<Box marginBottom="7">
 				<Heading>Hello!</Heading>
 				<Text>
-					Profiles from the Hack the North 2020 Open Source Workshop! 💻 👥 🚀
+					Members of the STEM Hack CLub
 					⚡️
 				</Text>
 			</Box>
