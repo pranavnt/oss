@@ -7,6 +7,14 @@
 		"profileUrl": "https://pbs.twimg.com/profile_images/1440601164676939777/CLjPFlm1_400x400.jpg",
 		"insta": "pranavnt5"
 	},
+
+	{"name": "Tyree Vadlamani",
+		"github": "avadlamani-tech",
+		"twitter": "i dont have one",
+		"description": "Hey! I'm Ashwin and I am cool and also  from Redmond, WA",
+		"profileUrl": "https://pbs.twimg.com/profile_images/1440601164676939777/CLjPFlm1_400x400.jpg",
+		"insta": "I'm a monti"
+  },
 		{
 		"name": "Shruthika Balasubramanian",
 		"github": "shruthikax",
@@ -21,6 +29,21 @@
 		"twitter": "KimKardashian",
 		"description": "Hi, I'm Kim K, I make money. I swear I'm not cheating, unless you give me money.",
 		"profileUrl": "https://th.bing.com/th/id/R.f8b003fa46abe55c94d44151975074d1?rik=KXeuNrDxGMBmqQ&pid=ImgRaw&r=0",
+  },{
+		"name": "Aryaman Rtunjay",
+		"github": "SecretNinja5897",
+		"twitter":"CQL_Assasin",
+		"description":"Soy intelligente porque si",
+		"profileUrl": "github.com/SecretNinja5897",
+		"insta": "Figure it out"
+	},
+  {
+		"name": "AnyaVaish05",
+		"github": "AnyaVaish06",
+		"twitter": "",
+		"description": "Hi",
+		"profileUrl": "",
+		"insta": ""
   },{
 		"name": "Monti Kumar",
 		"github": "AyaanKumar",
