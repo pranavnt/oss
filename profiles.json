@@ -14,5 +14,57 @@
 		"description": "Hi",
 		"profileUrl": "",
 		"insta": ""
-	}
+	},
+  {
+		"name": "Hitesh Mantha",
+		"github": "nindroz",
+		"twitter": "nindroz3",
+		"description": "Hi! I'm Hitesh",
+		"profileUrl": "",
+		"insta": "nindroz"
+  },
+  {
+		"name": "Jack G",
+		"github": "Whop42",
+		"twitter": "",
+		"description": "Hi! I'm Jack G, some random kid from Redmond, WA",
+		"profileUrl": "https://avatars.githubusercontent.com/u/66795817?v=4",
+		"insta": ""
+	},
+  {
+		"name":"Yutaro Urata",
+		"github": "Yaurrdautia",
+		"description": "I am your usual person who likes coding. I specialize in microcontrollers, and python. I love apis.",
+		"profileUrl":"https://github.com/Yaurrdautia"
+  },
+  {
+		"name": "Raghav",
+		"github": "Raghav-Kalyana-Sundaram",
+		"twitter": "",
+		"description": "Hey! I'm Raghav, a freshman from Redmond, WA"
+  },
+  {
+		"name": "Anisha Vaish",
+		"github": "KingDurian",
+		"twitter": "",
+		"description": "Hello",
+		"profileUrl": "",
+		"insta": ""
+  },
+  {
+		"name": "Pranav Kannepalli",
+		"github": "PranavK226",
+		"twitter":"Not applicable",
+		"description":"Hey! I'm another Pranav (Pranav numero uno), a cricketer & hacker from Redmond, WA",
+		"profileUrl": "github.com/PranavK226",
+		"insta": "Not applicable"
+	},
+	{
+		"name": "Druhin Bhowal",
+		"github": "druhinb",
+		"twitter": "nonexistent",
+		"description": "Hey! I'm Druhin, a game developer and history enthusiast from Redmond, WA!",
+		"profileUrl": "https://avatars.githubusercontent.com/u/26368906?s=96&v=4",
+		"insta": "nonexistent"
+	},
 ]
