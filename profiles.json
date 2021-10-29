@@ -7,6 +7,14 @@
 		"profileUrl": "https://pbs.twimg.com/profile_images/1440601164676939777/CLjPFlm1_400x400.jpg",
 		"insta": "pranavnt5"
 	},
+		{
+		"name": "Shruthika Balasubramanian",
+		"github": "shruthikax",
+		"twitter": "rareglows",
+		"description": "Hey! I'm Shruthika, a freshman at Tesla STEM High School.",
+		"profileUrl": "https://pbs.twimg.com/profile_images/1440601164676939777/CLjPFlm1_400x400.jpg",
+		"insta": "shruthikax"
+	},
 	{
 		"name": "AnyaVaish05",
 		"github": "AnyaVaish06",
@@ -14,6 +22,13 @@
 		"description": "Hi",
 		"profileUrl": "",
 		"insta": ""
+  },{
+		"name": "Monti Kumar",
+		"github": "AyaanKumar",
+		"twitter": "NA",
+		"description": "Hello Guys! I am Ayaan I also go by Monti.",
+		"profileUrl": "https://github.com/AyaanKumar",
+		"insta": "ayaan._.kumar"
 	},
   {
 		"name": "Hitesh Mantha",
@@ -66,5 +81,5 @@
 		"description": "Hey! I'm Druhin, a game developer and history enthusiast from Redmond, WA!",
 		"profileUrl": "https://avatars.githubusercontent.com/u/26368906?s=96&v=4",
 		"insta": "nonexistent"
-	},
+	}
 ]
