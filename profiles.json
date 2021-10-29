@@ -8,6 +8,14 @@
 		"insta": "pranavnt5"
 	},
 	{
+		"name": "Monti Kumar",
+		"github": "AyaanKumar",
+		"twitter": "NA",
+		"description": "Hello Guys! I am Ayaan I also go by Monti.",
+		"profileUrl": "https://github.com/AyaanKumar",
+		"insta": "ayaan._.kumar"
+	},
+  {
 		"name": "Hitesh Mantha",
 		"github": "nindroz",
 		"twitter": "nindroz3",
@@ -58,5 +66,5 @@
 		"description": "Hey! I'm Druhin, a game developer and history enthusiast from Redmond, WA!",
 		"profileUrl": "https://avatars.githubusercontent.com/u/26368906?s=96&v=4",
 		"insta": "nonexistent"
-	},
+	}
 ]
